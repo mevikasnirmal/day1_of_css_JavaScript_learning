@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d5e1ef;
+}
+
+.card {
+
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+
+
+}
+
+.cardContainer img {
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.cardhead {
+    font-weight: 700;
+    font-size: 15px;
+    font-family: Outfit, sans-serif;
+    padding: 10px;
+    line-height: 26px;
+}
+
+.para {
+    font-weight: 400;
+    font-size: 15px;
+    font-family: Outfit, sans-serif;
+    padding: 10px;
+    line-height: 23px;
+    color: rgb(125, 136, 158);
+}
